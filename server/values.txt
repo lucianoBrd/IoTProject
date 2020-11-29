@@ -1,0 +1,443 @@
+LT
+LT
+TL
+LT
+TL
+LT
+LT
+LT
+chibre
+LT
+chibre
+LT
+chibre
+LT
+chibre
+LT
+chibre
+LT
+chibre
+TL
+chibre
+TL
+chibre
+LT
+chibre
+TL
+chibre
+TL
+TLLTTLTLTLLTinitializing coms
+accepting coms
+communication established
+initializing coms
+accepting coms
+communication established
+zobzob
+accepting coms
+communication established
+TLLTTLTLLTTLTLLTLTTLTLLTLTTLTLTLTLTLLTTLTLTLTLTLTLTLTLTLTLTLTLTLTLTLTLTLTLTLTLTLTLLTTLLTLTTLTLLTLTchlib_accept:0x00000001chlib_accept:0x00000001chlib_accept:0x00000001T:23;L:15chlib_accept:0x00000001T:22;L:18T:23;L:17T:23;L:26T:23;L:26T:23;L:25T:23;L:25T:23;L:25T:23;L:24chlib_accept:0x00000001T:23;L:17chlib_accept:0x00000001T:23;L:22T:23;L:22Traceback (most recent call last):
+  File "__main__", line 53
+SyntaxError: invalid syntax
+MicroPython v1.9.2-34-gd64154c73 on 2017-09-01; micro:bit v1.0.1 with nRF51822
+Type "help()" for more information.
+>>> Traceback (most recent call last):
+  File "__main__", line 68
+SyntaxError: invalid syntax
+MicroPython v1.9.2-34-gd64154c73 on 2017-09-01; micro:bit v1.0.1 with nRF51822
+Type "help()" for more information.
+>>> Traceback (most recent call last):
+  File "__main__", line 5, in <module>
+ImportError: no module named 'multiprocessing'
+MicroPython v1.9.2-34-gd64154c73 on 2017-09-01; micro:bit v1.0.1 with nRF51822
+Type "help()" for more information.
+>>> Traceback (most recent call last):
+  File "__main__", line 4, in <module>
+ImportError: no module named '_thread'
+MicroPython v1.9.2-34-gd64154c73 on 2017-09-01; micro:bit v1.0.1 with nRF51822
+Type "help()" for more information.
+>>> Traceback (most recent call last):
+  File "__main__", line 72
+IndentationError: unexpected indent
+MicroPython v1.9.2-34-gd64154c73 on 2017-09-01; micro:bit v1.0.1 with nRF51822
+Type "help()" for more information.
+>>> Traceback (most recent call last):
+  File "__main__", line 97
+SyntaxError: invalid syntax
+MicroPython v1.9.2-34-gd64154c73 on 2017-09-01; micro:bit v1.0.1 with nRF51822
+Type "help()" for more information.
+>>> Traceback (most recent call last):
+  File "__main__", line 4, in <module>
+ImportError: no module named '_thread'
+T:24;L:3T:24;L:3T:24;L:3T:24;L:3T:24;L:2T:24;L:3T:24;L:3T:24;L:3T:24;L:3T:24;L:3T:24;L:3T:24;L:3T:24;L:3T:24;L:3T:24;L:3T:24;L:2T:24;L:3T:24;L:3T:24;L:3T:24;L:3T:24;L:3T:24;L:3T:24;L:3T:24;L:0T:24;L:0T:24;L:0T:24;L:3T:24;L:3T:24;L:3T:24;L:3T:24;L:4T:24;L:3T:24;L:3T:24;L:3T:24;L:3T:24;L:3T:24;L:3T:24;L:3T:24;L:3T:24;L:3T:24;L:3T:24;L:3T:24;L:3T:24;L:3T:24;L:3T:24;L:3T:24;L:3T:24;L:3T:24;L:3T:24;L:3T:24;L:3T:24;L:3T:24;L:3T:24;L:3T:24;L:3T:24;L:3T:24;L:3T:24;L:3T:24;L:3T:24;L:3T:24;L:3T:24;L:3T:25;L:4
+T:25;L:4
+T:25;L:4
+T:25;L:4
+T:25;L:4
+T:25;L:4
+T:25;L:4
+T:25;L:3
+T:25;L:3
+T:25;L:3
+T:25;L:3
+T:25;L:3
+T:24;L:3
+T:24;L:3
+T:24;L:3
+T:24;L:3
+T:24;L:3
+T:25;L:3
+T:25;L:4
+T:25;L:3
+T:24;L:3
+T:24;L:4
+T:24;L:3
+T:24;L:3
+T:24;L:3
+T:24;L:3
+T:24;L:3
+T:24;L:3
+T:24;L:3
+T:25;L:4
+Traceback (most recent call last):
+  File "__main__", line 52
+SyntaxError: invalid syntax
+MicroPython v1.9.2-34-gd64154c73 on 2017-09-01; micro:bit v1.0.1 with nRF51822
+Type "help()" for more information.
+>>> Traceback (most recent call last):
+  File "__main__", line 52
+SyntaxError: invalid syntax
+MicroPython v1.9.2-34-gd64154c73 on 2017-09-01; micro:bit v1.0.1 with nRF51822
+Type "help()" for more information.
+>>> TLTLTraceback (most recent call last):
+  File "__main__", line 52
+SyntaxError: invalid syntax
+MicroPython v1.9.2-34-gd64154c73 on 2017-09-01; micro:bit v1.0.1 with nRF51822
+Type "help()" for more information.
+>>> Traceback (most recent call last):
+  File "__main__", line 52
+SyntaxError: invalid syntax
+MicroPython v1.9.2-34-gd64154c73 on 2017-09-01; micro:bit v1.0.1 with nRF51822
+Type "help()" for more information.
+>>> Traceback (most recent call last):
+  File "__main__", line 71, in <module>
+AttributeError: 'MicroBitDisplay' object has no attribute 'scrol'
+error
+error
+error
+error
+error
+error
+error
+error
+error
+chlib_stop
+T:25;L:0
+T:28;L:9
+error
+error
+L:14;T:29
+error
+before sent
+
+after sent
+
+L:2;T:29
+before sent
+
+after sent
+
+before sent
+
+after sent
+
+T:29;L:3
+before sent
+
+after sent
+
+T:29;L:8
+before sent
+
+after sent
+
+T:29;L:4
+before sent
+
+after sent
+
+T:29;L:10
+before sent
+
+after sent
+
+T:29;L:8
+before sent
+
+after sent
+
+T:29;L:8
+before sent
+
+after sent
+
+T:29;L:9
+before sent
+
+after sent
+
+L:7;T:29
+before sent
+
+after sent
+
+L:5;T:29
+before sent
+
+after sent
+
+L:9;T:29
+before sent
+
+after sent
+
+L:0;T:29
+before sent
+
+after sent
+
+L:3;T:29
+before sent
+
+after sent
+
+L:5;T:29
+before sent
+
+after sent
+
+T:29;L:2
+before sent
+
+after sent
+
+L:5;T:29
+before sent
+
+after sent
+
+L:6;T:29
+before sent
+
+after sent
+
+L:5;T:29
+before sent
+
+after sent
+
+L:6;T:29
+before sent
+
+after sent
+
+L:4;T:29
+before sent
+
+after sent
+
+L:6;T:29
+before sent
+
+after sent
+
+T:29;L:7
+before sent
+
+after sent
+
+T:29;L:0
+before sent
+
+after sent
+
+T:29;L:3
+before sent
+
+after sent
+
+T:29;L:0
+before sent
+
+TL
+
+after sent
+
+T:29;L:0
+before sent
+
+T
+after sent
+
+error
+before sent
+
+L
+
+after sent
+
+error
+before sent
+
+TL
+
+after sent
+
+T:29;L:0
+before sent
+
+T
+after sent
+
+error
+before sent
+
+L
+
+after sent
+
+error
+error
+error
+error
+error
+error
+error
+L:5;T:29
+T:29;L:2
+Traceback (most recent call last):
+  File "__main__", line 62
+SyntaxError: invalid syntax
+MicroPython v1.9.2-34-gd64154c73 on 2017-09-01; micro:bit v1.0.1 with nRF51822
+Type "help()" for more information.
+>>> Traceback (most recent call last):
+  File "__main__", line 72
+SyntaxError: invalid syntax
+MicroPython v1.9.2-34-gd64154c73 on 2017-09-01; micro:bit v1.0.1 with nRF51822
+Type "help()" for more information.
+>>> L:5;T:29
+Traceback (most recent call last):
+  File "__main__", line 63, in <module>
+TypeError: object with buffer protocol required
+MicroPython v1.9.2-34-gd64154c73 on 2017-09-01; micro:bit v1.0.1 with nRF51822
+Type "help()" for more information.
+>>> TLT:29;L:0
+L:0;T:29
+T:29;L:4
+error
+T:29;L:3
+L:2;T:29
+T:29;L:5
+T:29;L:1
+T:29;L:5
+T:29;L:0
+T:28;L:0
+error
+T:28;L:0
+error
+error
+error
+error
+error
+error
+error
+error
+error
+error
+error
+error
+T:27;L:0
+L:0;T:27
+T:27;L:0
+L:0;T:27
+T:27;L:0
+L:0;T:27
+L:0;T:27
+L:0;T:27
+T:28;L:0
+T:28;L:0
+error
+error
+L:0;T:28
+L:0;T:28
+error
+error
+T:28;L:0
+L:0;T:28
+L:0;T:28
+T:28;L:0
+L:0;T:28
+T:28;L:0
+T:28;L:0
+L:0;T:28
+retry
+L:0;T:28
+retry
+L:0;T:28
+T:28;L:0
+L:0;T:28
+L:0;T:28
+T:28;L:0
+T:28;L:0
+L:0;T:28
+T:28;L:0
+L:0;T:28
+L:0;T:28
+L:0;T:28
+T:28;L:0
+T:28;L:0
+L:0;T:28
+L:0;T:28
+retry
+retry
+retry
+T:28;L:0
+L:0;T:28
+T:28;L:0
+L:0;T:28
+retry
+retry
+T:28;L:0
+L:0;T:28
+T:28;L:0
+L:0;T:28
+retry
+retry
+L:0;T:28
+L:0;T:28
+T:28;L:0
+T:28;L:0
+L:0;T:28
+L:0;T:28
+T:29;L:0
+L:0;T:28
+L:0;T:29
+T:29;L:0
+L:0;T:29
+L:0;T:29
+L:0;T:29
+T:29;L:0
+T:28;L:0
+L:0;T:28
+L:0;T:29
+T:29;L:0
+L:0;T:29
+L:0;T:29
+T:29;L:0
+{"temp":"29","lum":"0"}
+{"temp":"29","lum":"0"}
+{"temp":"29","lum":"0"}
+{"lum":"0","temp":"29"}
+{"t":"28","l":"0","o":"TL"}
+{"t":"28","l":"0","o":"TL"}
+{"l":"0","t":"28","o":"LT"}
+{"l":"0","t":"28","o":"LT"}
