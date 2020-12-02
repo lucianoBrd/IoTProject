@@ -1,16 +1,23 @@
 # Chiffre de Vigenere
-universe = [c for c in (chr(i) for i in range(32,127))]
+
+# Cant take all char => memory error
+# Take char we use + others
+universe = [' ', '_', '"', '#', '$', '%', '&', "'", '(', ')', '*', '+', ',', '-', '.', '/', '0', '1', '2', '3', '4', '5', '6', '7', '8', '9', ':', ';', '<', '=', '>', '?', '@', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z', '[', '{', '}', 'x']
 uni_len = len(universe)
     
 def vign(txt='', key='', typ='d'):
     if not txt:
-        return 'Needs text.'
+        # 'Needs text.'
+        return None
     if not key:
-        return 'Needs key.'
+        #'Needs key.'
+        return None
     if typ not in ('d', 'e'):
-        return 'Type must be "d" or "e".'
+        #'Type must be "d" or "e".'
+        return None
     if any(t not in universe for t in key):
-        return 'Invalid characters in the key. Must only use ASCII symbols.'
+        #'Invalid characters in the key. Must only use ASCII symbols.'
+        return None
 
     ret_txt = ''
     k_len = len(key)
@@ -31,7 +38,8 @@ def vign(txt='', key='', typ='d'):
             ret_txt += code
 
     return ret_txt
-    
-#q = vign('Let\'s check this out!', 'super secret key', 'e')
+
+# Exemples of use :
+#q = vign('CHLIB_REQUEST', '0x12345678', 'e')
 #print(q)
-#print(vign(q, 'super secret key', 'd'))
+#print(vign(q, '0x12345678', 'd'))
