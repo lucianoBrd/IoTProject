@@ -9,9 +9,9 @@ import random
 # Global variables
 ##################################################
 # Network request
-init = "chlib_request"
-accept = "chlib_accept"
-stop = "chlib_stop"
+init = "CHLIB_REQUEST"
+accept = "CHLIB_ACCEPT"
+stop = "CHLIB_STOP"
 # Default communication addresse
 default_address = "0x12345678"
 # Default key for cipher
