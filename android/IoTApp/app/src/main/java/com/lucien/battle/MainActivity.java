@@ -304,7 +304,7 @@ public class MainActivity extends AppCompatActivity {
                                 });
                             } else {
                                 /* If text == retry */
-                                /* Means an error happended */
+                                /* Means an error happened */
                                 /* Send again the message */
                                 if (tl) {
                                     sendData("TL\n");
