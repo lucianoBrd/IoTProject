@@ -1,15 +1,22 @@
 # Documentation Android
 
 - Vous trouverez des **commentaires en anglais** en navigant dans le **code**
-### Installation
+
+## Table des matières
+1. Installation
+2. Introduction
+3. Contenu
+
+## 1. Installation
 Deux options : 
 - Lancer le fichier ```IoTApp.apk``` sur un appareil android
 - Ouvrir le dossier ```android/IoTApp/``` dans ***Android Studio*** et lancer un émulateur
 
-### Introduction
-Le dossier ```android/``` contient la partie android du projet d'IoT.
+## 2. Introduction
+Le dossier ```android/``` contient la partie android du projet d'IoT. Voici un aperçu de l'application :
+![capture-appli](Capture.png "capture appli")
 
-### Contenu
+## 3. Contenu
 1. Code source de l'application ```android/IoTApp/``` avec notamment ***quelques fichiers importants*** :
   - 2 classes java :
     - MainActivity.java
@@ -20,7 +27,7 @@ Le dossier ```android/``` contient la partie android du projet d'IoT.
     - Cette séparation en AsyncTask et Thread permet d'éviter que l'exécution de ces morceaux de code **ne bloquent** l'application.
   - 1 fichier xml :
     - res/layout/activity_main.xml
-      - Contient le layout de l'application (boutons, inputs, ...)
+      - Contient le layout de l'application (boutons, inputs, ...). Le bouton envoyer permet d'envoyer ```LT``` ou ```TL``` au serveur. Le bouton est désactivé jusqu'à ce que l'application reçoive une réponse du serveur.
 
 
 2. Fichier d'installation android ```android/IoTApp.apk```
