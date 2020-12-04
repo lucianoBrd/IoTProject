@@ -5,7 +5,6 @@
 ## Table des matières
 1. Résumé
 2. Description
-3. Installing the server
 
 Lancement : ```python3 controller.py```
 
@@ -18,28 +17,26 @@ Le serveur effectue les tâches suivantes.
 - Se connecte à la base de donnée **MongoDB**
 - Initialise les objets et variables pour **l'UART**
 - Prépare et lance un *Thread* pour gérer les connexions UDP avec **l'application android**
+- À la réception d'un Thread :
+  - On récupère les infos de la connexion 
+  - On renvoie les données dans l'UART
 - Gère la communication filaire **UART** avec le micro:bit correspondant
-- 
+- À la réception de données en UART :
+  - On converti les données en string
+  - Si la string est retry :
+    - On renvoie les dernières données envoyées si nécessaire (le micro:bit renvoie "retry\n" en cas d'erreur)
+  - Sinon :
+    - on enregistre les données dans le fichier texte et la BD
+    - on fait parvenir ces données à l'application android
+
 ## 3. Installing the server
-In a new raspbian installation:
-```
-sudo apt-get update
-sudo apt-get upgrade
-sudo apt-get install git python python-serial minicom
-sudo usermod -aG dialout pi
-```
-
-Add a line into `rc.local`to start the game
-
 For the db : 
-
 in one term
 ```
 docker pull mongo
 docker rm mongodb
 docker run --name mongodb -p 27017:27017 mongo
 ```
-
 in another one
 ```
 docker exec -it mongodb bash #to acceed to mongo 
