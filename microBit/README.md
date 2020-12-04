@@ -4,8 +4,8 @@
 
 ## Table des matières
 1. Mise en place des 2 micro:bit
-  1. Contenu du dossier
-  2. Code commun aux deux micro-controlleurs
+  1.1. Contenu du dossier
+  1.2. Code commun aux deux micro-controlleurs
 2. Documentation micro-controlleur passerelle
 3. Documentation micro-controlleur relié à l'écran
 

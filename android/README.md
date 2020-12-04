@@ -14,7 +14,7 @@ Deux options :
 
 ## 2. Introduction
 Le dossier ```android/``` contient la partie android du projet d'IoT. Voici un aperçu de l'application :
-![capture-appli](Capture.png "capture appli")
+![capture-appli](./Capture.PNG "capture appli")
 
 ## 3. Contenu
 1. Code source de l'application ```android/IoTApp/``` avec notamment ***quelques fichiers importants*** :
